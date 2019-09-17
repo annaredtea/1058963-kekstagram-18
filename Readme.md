@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Анна Ильченко](https://up.htmlacademy.ru/javascript/18/user/1058963).
-* Наставник: `Неизвестно`.
+* Наставник: [Владимир Кабыш](https://up.htmlacademy.ru/javascript/18/user/78399).
 
 ---
 
